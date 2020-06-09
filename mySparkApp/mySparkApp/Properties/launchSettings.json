@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mySparkApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
