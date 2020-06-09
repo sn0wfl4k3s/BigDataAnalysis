@@ -1,3 +1,19 @@
-﻿Hello World
-This .NET app uses .NET for Apache Spark
-This .NET app counts words with Apache Spark
+﻿Microsoft (MSFT) is hard at work on a new platform that will let developers easily build cloud computing services and mobile applications that can analyze lots of data, according to a report Tuesday in ZDNet.
+
+The platform, code-named Prajna, is built on Microsoft’s .NET programming language (which the company open sourced last March) and is inspired by the data-processing capabilities of the white-hot Apache Spark technology. Like Spark, Hadoop and most popular big data technologies, Prajna is also an open source project.
+
+Spark, in particular, is increasingly the choice for data professionals who need to process lots of data fast, as well as for startups building software that lets users analyze and visualize their data very quickly. It’s also a component of Salesforce.com’s (CRM) new cloud service for the Internet of Things that promises to let users do proactive customer service by analyzing data from customers’ connected devices in real time.
+
+This helps explain why Microsoft is presenting Prajna as a Spark-like experience, only more useful. Apart from being fast at crunching data and easy to program, Prajna should also make it easy to actually build user-facing software programs that take advantage of these capabilities. A recent job posting by Microsoft seeking a Prajna engineer states that, compared with Spark, Prajna will allow programmers to “easily build and deploy cloud services, and consume the services in mobile apps.”
+
+Aside from Prajna, Microsoft is also working on other big data technologies that it looks will turn into products at some point. These include the Cosmos data-processing platform and the Naiad engine for processing data in real time.
+
+However, all of these investments in technologies for processing and analyzing big data might seem a bit curious on the surface. Microsoft already supports and sells products around Hadoop—the open source big data platform that sprung out of Yahoo (YHOO) and helped seed a multi-billion-dollar technology market. And as Spark has emerged as a faster, easier alternative for processing data stored in Hadoop, Microsoft has kept up by adding support for Spark.
+
+In fact, Microsoft has turned a lot of heads in the past couple years as, under the leadership of CEO Satya Nadella, it has embraced a number of popular open source technologies. On Azure, the company’s cloud computing platform, a quarter of users’ virtual machines are now running Linux rather than Windows. Rather than hang its head, Microsoft touts this growing trend as proof that it will support whatever technologies developers want to build on and is very much open for business to non-Windows IT departments.
+
+But in the world of cloud computing, where Microsoft is competing against giants like Amazon Web Services (AMZN) and Google (GOOG), there is no such thing as leaving well enough alone. While it is all but a requirement to support popular open source databases, operating systems, and other technologies, it is smart for cloud providers to offer their own internally developed technologies, as well.
+
+Actually, it’s good business for cloud providers (and software providers) to not only offer their own technologies, but to market them as the superior option. And whether they’re open source, like Prajna and .NET, or proprietary like much of what Amazon Web Services and Google produce, the goal is the same: to establish your company as the de facto platform for building and running new types of software products. We built it, our platform is optimized for it, and you want to buy it from us.
+
+If Microsoft thinks its custom-built technologies will help it compete with Amazon and Google, and maybe reestablish its desktop computer and server era dominance in an era of cloud computing and big data, it’s going to keep on building them.

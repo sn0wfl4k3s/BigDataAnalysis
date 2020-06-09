@@ -19,7 +19,7 @@ namespace mySparkApp
 
             var spark = SparkSession
                 .Builder()
-                .AppName("word_count_sample")
+                .AppName("word_count")
                 .GetOrCreate();
 
             var dataFrame = spark.Read().Text("input.txt");
