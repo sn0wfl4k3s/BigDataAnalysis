@@ -1,5 +1,4 @@
 ﻿using Microsoft.Spark.Sql;
-using System;
 
 namespace mySparkApp
 {
@@ -7,12 +6,14 @@ namespace mySparkApp
     {
         static void Main(string[] args)
         {
-            // docker exec -it <CONTAINER ID> /bin/bash
+            /*
+                docker ps
+                docker exec -it <CONTAINER ID> /bin/bash
+                cd /bin/Debug/netcoreapp3.1/
 
-            // cd /bin/Debug/netcoreapp3.1/
-
-            // spark-submit --class org.apache.spark.deploy.dotnet.DotnetRunner 
-            // --master local microsoft-spark-2.4.x-0.11.0.jar dotnet mySparkApp.dll
+                spark-submit --class org.apache.spark.deploy.dotnet.DotnetRunner 
+                --master local microsoft-spark-2.4.x-0.11.0.jar dotnet mySparkApp.dll
+             */
 
             var spark = SparkSession
                 .Builder()
